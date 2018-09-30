@@ -1,0 +1,7 @@
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\OCP\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\OCP\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\OCP\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\OCP\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\OCP\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\OCP\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\OCP\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb

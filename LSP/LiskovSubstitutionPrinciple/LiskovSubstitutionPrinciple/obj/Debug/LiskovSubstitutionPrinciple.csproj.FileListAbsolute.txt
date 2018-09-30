@@ -1,0 +1,7 @@
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\LSP\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\LSP\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\LSP\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\LSP\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\LSP\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\LSP\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\SOLID\LSP\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb
